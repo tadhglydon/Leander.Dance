@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leander.Dance", "Leander.Dance\Leander.Dance.csproj", "{3FCBF892-2B39-4D13-AF50-AC2A3F588530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FCBF892-2B39-4D13-AF50-AC2A3F588530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCBF892-2B39-4D13-AF50-AC2A3F588530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCBF892-2B39-4D13-AF50-AC2A3F588530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCBF892-2B39-4D13-AF50-AC2A3F588530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0833766A-C0B9-4E3F-8749-890970111626}
+	EndGlobalSection
+EndGlobal
